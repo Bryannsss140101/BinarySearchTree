@@ -11,3 +11,5 @@ Un proyecto en C++ que implementa un **Árbol Binario de Búsqueda (BST)**, prop
 
 El **Árbol Binario de Búsqueda (BST)** es una estructura de datos que facilita el almacenamiento y la búsqueda eficiente de elementos. En un BST, cada nodo tiene un valor mayor que todos los valores en su subárbol izquierdo y menor que todos los valores en su subárbol derecho.
 
+<img src="img/bst-img.png" alt="Árbol binario de búsqueda" width="300"/>
+
