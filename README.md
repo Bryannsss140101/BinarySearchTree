@@ -6,9 +6,9 @@ Un proyecto en C++ que implementa un **Árbol Binario de Búsqueda (BST)**, prop
 
 1. [Descripción](#descripción)
 3. [Funciones](#funciones)
-4. [Implementación](#implementación)
-5. [Contribuciones](#contribuciones)
-6. [Licencia](#licencia)
+5. [Implementación](https://github.com/Bryannsss140101/BinarySearchTree/wiki)
+6. [Contribuciones](#contribuciones)
+7. [Licencia](#licencia)
 
 ## Descripción
 
