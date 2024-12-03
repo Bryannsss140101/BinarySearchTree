@@ -18,7 +18,8 @@ struct Node {
     }
 
     friend std::ostream &operator<<(std::ostream &os, const Node *other) {
-        os << other->data;
+        const auto aux = other == nullptr ? T(-1) : other->data;
+        os << aux;
         return os;
     }
 };

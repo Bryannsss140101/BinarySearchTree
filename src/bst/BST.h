@@ -80,12 +80,14 @@ private:
     }
 
     Node<T> *search(const T &data, Node<T> *node) {
+        if (node == nullptr)
+            return nullptr;
+
         if (data == node->data)
             return node;
 
-        if (data < node->data)
-            return search(data, node->left);
-        return search(data, node->right);
+        auto aux_node = data < node->data ? node->left : node->right;
+        return search(data, aux_node);
     }
 
     void destroy(Node<T> *node) {
