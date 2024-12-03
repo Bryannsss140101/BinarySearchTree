@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Juan Pérez
+Copyright (c) 2024 Bryan Ninamango.
 
 Se concede permiso, de manera gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para usar el Software sin restricciones, incluyendo, sin limitación, los derechos de usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y para permitir a las personas a las que se les proporcione el Software que lo hagan, sujeto a las siguientes condiciones:
 
