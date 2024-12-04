@@ -6,7 +6,7 @@ Un proyecto en C++ que implementa un **Árbol Binario de Búsqueda (BST)**, prop
 
 1. [Descripción](#descripción)
 3. [Funciones](#funciones)
-5. [Implementación](#implementacion)
+5. [Implementación](#implementación)
 6. [Contribuciones](#contribuciones)
 7. [Licencia](#licencia)
 
