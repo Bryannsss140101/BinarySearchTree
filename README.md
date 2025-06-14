@@ -6,7 +6,7 @@
 
 Un proyecto en `C++` que implementa un `Árbol Binario de Búsqueda (BST)`, proporcionando funciones estándar para gestionar y manipular datos almacenados en dicho árbol. Este repositorio está diseñado para demostrar cómo funciona un BST y la implementación de sus funciones principales.
 
-### 📜 Contenido
+### 📜 Tabla de contenido
 1. [📚 Descripción](https://github.com/Bryannsss140101/BinarySearchTree/wiki/%F0%9F%93%9A-Descripci%C3%B3n)
 2. [⚙️ Funciones](https://github.com/Bryannsss140101/BinarySearchTree/wiki/%E2%9A%99%EF%B8%8F-Funciones)
 
