@@ -13,7 +13,7 @@ Un proyecto en `C++` que implementa un `Árbol Binario de Búsqueda (BST)`, prop
 4. [Contribuciones](https://github.com/Bryannsss140101/BinarySearchTree/blob/main/README.md#-contribuciones)
 
 ### 🖥️ Implementación
-Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp` desde CLion.
+Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp`.
 ```bash
 git clone https://github.com/Bryannsss140101/BinarySearchTree.git
 cd BinarySearchTree
@@ -31,7 +31,7 @@ cd BinarySearchTree
 5. **Haz commit de tus cambios**:
    ```bash
    git add .
-   git commit -m "My awesome commits"
+   git commit -m "My awesome commit"
    ```
 7. **Sube tus cambios**:
    ```bash
