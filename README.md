@@ -6,8 +6,8 @@ Un proyecto en C++ que implementa un **Árbol Binario de Búsqueda (BST)**, prop
 
 1. [Descripción](#descripción)
 3. [Funciones](#funciones)
-5. [🖥️ Implementación](#implementación)
-6. [🤝 Contribuciones](#contribuciones)
+5. [Implementación](#implentación)
+6. [Contribuciones](#contribuciones)
 
 ### 🖥️ Implementación
 Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp` desde CLion.
