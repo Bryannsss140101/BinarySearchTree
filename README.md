@@ -31,7 +31,7 @@ cd BinarySearchTree
 5. **Haz commit de tus cambios**:
    ```bash
    git add .
-   git commit -m "mis asombrosos cambios"
+   git commit -m "My awesome commits"
    ```
 7. **Sube tus cambios**:
    ```bash
