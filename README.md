@@ -4,7 +4,7 @@
 
 # 🌳 BinarySearchTree (BST)
 
-Un proyecto en C++ que implementa un **Árbol Binario de Búsqueda (BST)**, proporcionando funciones estándar para gestionar y manipular datos almacenados en dicho árbol. Este repositorio está diseñado para demostrar cómo funciona un BST y cómo se implementan sus funciones principales.
+Un proyecto en `C++` que implementa un `Árbol Binario de Búsqueda (BST)`, proporcionando funciones estándar para gestionar y manipular datos almacenados en dicho árbol. Este repositorio está diseñado para demostrar cómo funciona un BST y la implementación de sus funciones principales.
 
 ### 🖥️ Implementación
 Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp` desde CLion.
