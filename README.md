@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 [![License](https://img.shields.io/badge/licencia-MIT-orange)](https://github.com/Bryannsss140101/BinarySearchTree/blob/main/LICENSE.txt)
 
-# 🌳 BinarySearchTree (BST)
+# 🌳 Binary Search Tree (BST)
 
 Un proyecto en `C++` que implementa un `Árbol Binario de Búsqueda (BST)`, proporcionando funciones estándar para gestionar y manipular datos almacenados en dicho árbol. Este repositorio está diseñado para demostrar cómo funciona un BST y la implementación de sus funciones principales.
 
