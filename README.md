@@ -1,6 +1,6 @@
 ![status](https://img.shields.io/badge/status-finished-brightgreen)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
-[![License](https://img.shields.io/badge/licencia-MIT-green)](https://github.com/Bryannsss140101/BinarySearchTree/blob/main/lic/LICENSE.txt)
+[![License](https://img.shields.io/badge/licencia-MIT-green)](https://github.com/Bryannsss140101/BinarySearchTree/blob/main/LICENSE.txt)
 
 # 🌳 BinarySearchTree (BST)
 
