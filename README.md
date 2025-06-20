@@ -9,8 +9,8 @@ Un proyecto en `C++` que implementa un `Árbol Binario de Búsqueda (BST)`, prop
 ### 📜 Tabla de contenido
 1. [Descripción](https://github.com/Bryannsss140101/BinarySearchTree/wiki/%F0%9F%93%9A-Descripci%C3%B3n)
 2. [Funciones](https://github.com/Bryannsss140101/BinarySearchTree/wiki/%E2%9A%99%EF%B8%8F-Funciones)
-3. [Implementación](https://github.com/Bryannsss140101/BinarySearchTree/blob/main/README.md#%EF%B8%8F-implementaci%C3%B3n)
-4. [Contribuciones](https://github.com/Bryannsss140101/BinarySearchTree/blob/main/README.md#-contribuciones)
+3. [Implementación](#%EF%B8%8F-implementaci%C3%B3n)
+4. [Contribuciones](#-contribuciones)
 
 ### 🖥️ Implementación
 Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp`.
